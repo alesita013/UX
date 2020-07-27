@@ -7,7 +7,7 @@
 ### Заголовок 3
 
 Изображения вставлять с помощью
-<img src="/show/IMG-20181111-WA0000.jpg" alt="Branching">
+<img src="/show/img-20181111-WA0000.jpg" alt="Branching">
 а ссылки
 [Link](url)
 
